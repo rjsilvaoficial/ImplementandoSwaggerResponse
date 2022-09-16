@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerResponse4</name>
+    </assembly>
+    <members>
+        <member name="M:ImplementandoSwaggerResponse1.Controllers.WeatherForecastController.Get">
+            <summary>
+            Descricao do metodo/action atual
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ImplementandoSwaggerResponse1.Controllers.WeatherForecastController.Registrar(ImplementandoSwaggerResponse1.Models.Pessoa)">
+            <summary>
+            Descricao do metodo/action Registrar()
+            </summary>
+            <param name="pessoa"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "iiy5O1LmpVnerGEGYlUDALLMJjoxP7bSPr/BN2zEYO/YcNO7jCK9boGg5TEpreLFz7a2ryRs50w78Ql4hDHVIA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\ImplementandoSwaggerResponse\\ImplementandoSwaggerResponse1\\SwaggerResponse4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robso\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\robso\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\robso\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\robso\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\5.6.3\\swashbuckle.aspnetcore.annotations.5.6.3.nupkg.sha512",
+    "C:\\Users\\robso\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\robso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\robso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
